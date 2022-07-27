@@ -1,0 +1,7 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-highlihgt-color {
+    color: $yellow-300;
+}
