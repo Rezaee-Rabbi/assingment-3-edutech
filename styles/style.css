@@ -44,3 +44,12 @@ body {
 .join-now {
     height: 300px;
 }
+
+.meet-students h1 {
+    margin-top: 120px;
+    margin-bottom: 30px;
+}
+
+.meet-students p {
+    line-height: 30px;
+}
